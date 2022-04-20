@@ -6,7 +6,8 @@
 
 Для получения зачета, вам необходимо предоставить:
 - Скриншот страницы, как на слайде из презентации (слайд 37).
-![](/Users/Melnik/05-virt-04-docker-compose/1.jpg?raw=true)
+![](1.jpg)
+![](https://github.com/melnik-evgeniy/05-virt-04-docker-compose/blob/master/1.jpg)
 
 
 ### Задача 2
