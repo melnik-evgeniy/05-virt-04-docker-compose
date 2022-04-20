@@ -6,9 +6,7 @@
 
 Для получения зачета, вам необходимо предоставить:
 - Скриншот страницы, как на слайде из презентации (слайд 37).
-![](1.jpg)
-![](https://github.com/melnik-evgeniy/05-virt-04-docker-compose/blob/master/1.jpg)
-
+![](https://github.com/melnik-evgeniy/05-virt-04-docker-compose/blob/master/1.jpg?raw=true)
 
 ### Задача 2
 
@@ -16,7 +14,7 @@
 
 Для получения зачета, вам необходимо предоставить:
 - Скриншот страницы свойств созданной ВМ:
-![](/Users/Melnik/05-virt-04-docker-compose/2.jpg?raw=true)
+![](https://github.com/melnik-evgeniy/05-virt-04-docker-compose/blob/master/2.jpg?raw=true)
 
 ### Задача 3
 
@@ -24,4 +22,4 @@
 
 Для получения зачета, вам необходимо предоставить:
 - Скриншот работающего веб-интерфейса Grafana с текущими метриками:
-![](/Users/Melnik/05-virt-04-docker-compose/3.jpg?raw=true)
+![](https://github.com/melnik-evgeniy/05-virt-04-docker-compose/blob/master/3.jpg?raw=true)
